@@ -1,16 +1,15 @@
 ## This is my first attempt on making something like this, so there might be LOTS of BUGS for now, I will try to fix any problems asap!
 ## Many thanks to the original files and [streamerbot.com ](https://streamer.bot/) which I used.
 
-Game adjusted to work in Streamer.bot with 2 players playing against each others. (Twitch only).
+Game adjusted to work in Streamer.bot with 2 players playing against each others. (Twitch only).                                                                                                                                                                                                                                                                          
+🔘 Web socket server required with default port 8080.                                      
 
-🔘 Web socket server required with default port 8080.
-
-🔘 Download the .zip file - Extract the folder anywhere in your PC - Add a browser source in OBS (check Local file box) locate and add the    
+🔘 Download the .zip file - Extract the folder anywhere in your PC - Add a browser source in OBS (check Local file box) locate and add the                                       
 　　　　　　　　　　　　　intex.html file, uncheck Shutdown and Refresh boxes if checked.
 
-🔘 You must be using a Twitch Bot inside Streamer.Bot ( If you don't have one, just make an account and connect it).
+🔘 You must be using a Twitch Bot inside Streamer.Bot ( If you don't have one, just make an account and connect it).                                      
 
-🔘 I'm using Twitch Whispers System to send the cards values to the players, there are limitations and your chatbot must have a verified
+🔘 I'm using Twitch Whispers System to send the cards values to the players, there are limitations and your chatbot must have a verified                                       
 　　phone number you can read more here: https://docs.streamer.bot/api/triggers/twitch/chat/bot-whispers#notes 
 　　*Also, users must have whispers enabled or to message the bot first in order to receive them.
 
@@ -23,7 +22,6 @@ Game adjusted to work in Streamer.bot with 2 players playing against each others
   
 ![SB subActions](https://github.com/user-attachments/assets/eb5fb5ed-6dd5-4c23-b8ab-36235ac0d770)
 
-🔘 Images:
 ![image](https://github.com/user-attachments/assets/9936b17a-35c1-4ac2-9403-758a25713a82)
 
 
