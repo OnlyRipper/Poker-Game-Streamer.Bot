@@ -11,6 +11,7 @@ Game adjusted to work in Streamer.bot with 2 players playing against each others
 
 🔘 I'm using Twitch Whispers System to send the cards values to the players, there are limitations and your chatbot must have a verified
 　　phone number you can read more here: https://docs.streamer.bot/api/triggers/twitch/chat/bot-whispers#notes 
+  
 　　*Also, users must have whispers enabled or to message the bot first in order to receive them.
 
 🔘 It works with Currency Core extension ( https://extensions.streamer.bot/docs?topic=49 ) just enable the subAction.
