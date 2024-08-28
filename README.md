@@ -26,18 +26,29 @@ Game adjusted to work in Streamer.bot with 2 players playing against each others
 🔘 Images:
 ![image](https://github.com/user-attachments/assets/9936b17a-35c1-4ac2-9403-758a25713a82)
 
+
 ![image](https://github.com/user-attachments/assets/dda09d06-26e5-4dad-8340-e4273c906493)
+
  
 🔘Commands  ◻️ !pokerstart (Starts a game for anyone to join with default bet) or add any amount after the command to set the pot.
+
 ‎-------------◻️ !pokerjoin (Join a game if available). 
+
 -------------◻️ !pokerend (Force end a game with no winners).
+
 -------------◻️ !poker (This is the main command to trigger actions, add the action you want to take after the command, ex: !poker check
+
 --------------------------◻️ check (skips your turn and waits for the opponent action).
+
 --------------------------◻️ raise (type your chosen amount of raise after, ex: !poker raise 100
+
 --------------------------◻️ reraise (only works if opponent already raised, same as raise add the amount after, ex: !poker reraise 100
+
 --------------------------◻️ allin (this puts all your points on the pot, if you have more than your opponent, it automatically picks their max 
 　　　　　　　　　　　　　　　points and sets the bet to that).   
+               
 --------------------------◻️ call (calls any raise, reraise or allin).
+
 --------------------------◻️ fold (give up and quit the game).        
   
 🔘 The browser source has a small delay between showing the cards, a message in chat will be sent short time after the cards are shown 
