@@ -23,7 +23,7 @@ Game adjusted to work in Streamer.bot with 2 players playing against each others
   
 ![SB subActions](https://github.com/user-attachments/assets/eb5fb5ed-6dd5-4c23-b8ab-36235ac0d770)
 
-![image](https://github.com/user-attachments/assets/9936b17a-35c1-4ac2-9403-758a25713a82)
+   ![image](https://github.com/user-attachments/assets/9936b17a-35c1-4ac2-9403-758a25713a82)
 
 
 ![image](https://github.com/user-attachments/assets/dda09d06-26e5-4dad-8340-e4273c906493)
