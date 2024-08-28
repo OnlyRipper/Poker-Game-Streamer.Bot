@@ -5,11 +5,11 @@ Game adjusted to work in Streamer.bot with 2 players playing against each others
 🔘 Web socket server required with default port 8080.                                      
 
 🔘 Download the .zip file - Extract the folder anywhere in your PC - Add a browser source in OBS (check Local file box) locate and add the                                       
-　　　　　　　　　　　　　intex.html file, uncheck Shutdown and Refresh boxes if checked.
+intex.html file, uncheck Shutdown and Refresh boxes if checked.
 
 🔘 You must be using a Twitch Bot inside Streamer.Bot ( If you don't have one, just make an account and connect it).                                      
 
-🔘 I'm using Twitch Whispers System to send the cards values to the players, there are limitations and your chatbot must have a verified                                       
+🔘 I'm using Twitch Whispers System to send the cards values to the players, there are limitations and your chatbot must have a verified
 　　phone number you can read more here: https://docs.streamer.bot/api/triggers/twitch/chat/bot-whispers#notes 
 　　*Also, users must have whispers enabled or to message the bot first in order to receive them.
 
