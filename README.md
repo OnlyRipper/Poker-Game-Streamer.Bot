@@ -16,7 +16,8 @@ Game adjusted to work in Streamer.bot with 2 players playing against each others
 🔘 It works with Currency Core extension ( https://extensions.streamer.bot/docs?topic=49 ) just enable the subAction.
 
 🔘 Download the .txt file and copy all the text inside - Go to Streamer.Bot - Imports Tab - Add the text to the Import Field.
-[Copy ME.txt](https://github.com/user-attachments/files/16776644/Copy.ME.txt)
+*I have updated some bugs and changed some code*
+[Copy ME.txt](https://github.com/user-attachments/files/16792312/Copy.ME.txt)
 
 🔘 In the Sub-Actions check all the comments and replace the fields with yours
   
